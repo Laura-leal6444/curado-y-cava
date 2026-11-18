@@ -1,0 +1,24 @@
+﻿1,categoria,nombre,unidad,precio,costo,cantidad,minimo
+1,carne,Jamón serrano,porción 100 g,120.0,80.0,38,10
+2,carne,Selva negra,porción 100 g,70.0,45.0,5,10
+3,carne,Roast beef,porción 100 g,65.0,42.0,29,8
+4,carne,Lomo canadiense,porción 100 g,60.0,38.0,28,8
+5,carne,Chorizo de Pamplona,porción 100 g,55.0,35.0,34,8
+6,carne,Salami,porción 100 g,50.0,32.0,35,8
+7,carne,Peperoni,porción 100 g,45.0,28.0,42,8
+8,queso,Queso azul,porción 100 g,85.0,55.0,24,8
+9,queso,Queso brie,porción 100 g,75.0,48.0,30,8
+10,queso,Queso manchego,porción 100 g,80.0,52.0,29,8
+11,queso,Queso de oveja trufado,porción 100 g,110.0,70.0,2,6
+12,queso,Queso parmesano,porción 100 g,70.0,45.0,26,8
+13,queso,Queso de cabra,porción 100 g,78.0,50.0,20,6
+14,queso,Queso holandés,porción 100 g,55.0,35.0,38,8
+15,vino,Vino tinto,botella,420.0,280.0,14,4
+16,vino,Vino blanco,botella,380.0,250.0,12,4
+17,vino,Vino rosado,botella,360.0,235.0,10,4
+18,vino,Vino espumoso,botella,520.0,340.0,3,6
+19,acompanamiento,Chocolates,barra,65.0,40.0,29,6
+20,acompanamiento,Miel,frasco,140.0,90.0,14,4
+21,acompanamiento,Fruta de temporada,porción,45.0,25.0,59,15
+22,acompanamiento,Pan artesanal,porción,40.0,22.0,54,15
+23,canasta,Canasta para picnic,pieza,950.0,600.0,8,3

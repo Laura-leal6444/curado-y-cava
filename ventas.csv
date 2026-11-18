@@ -1,0 +1,539 @@
+﻿id_venta,fecha,tipo,concepto,id_producto,producto,categoria,cantidad,precio_unitario,costo_unitario,total
+1,2026-10-14T11:01:47,venta,Compra: Selva negra,2,Selva negra,carne,3,70,45,210
+2,2026-10-14T11:43:47,venta,Maridaje: Rosé de Terraza,17,Vino rosado,vino,1,331.2,235,331.2
+2,2026-10-14T11:43:47,venta,Maridaje: Rosé de Terraza,21,Fruta de temporada,acompanamiento,2,41.4,25,82.8
+2,2026-10-14T11:43:47,venta,Maridaje: Rosé de Terraza,22,Pan artesanal,acompanamiento,1,36.8,22,36.8
+3,2026-10-14T14:51:55,venta,Compra: Queso de cabra,13,Queso de cabra,queso,2,78,50,156
+4,2026-10-14T19:01:35,venta,"Compra: Queso de cabra, Fruta de temporada, Vino tinto",13,Queso de cabra,queso,1,78,50,78
+4,2026-10-14T19:01:35,venta,"Compra: Queso de cabra, Fruta de temporada, Vino tinto",21,Fruta de temporada,acompanamiento,2,45,25,90
+4,2026-10-14T19:01:35,venta,"Compra: Queso de cabra, Fruta de temporada, Vino tinto",15,Vino tinto,vino,3,420,280,1260
+5,2026-10-14T19:27:02,venta,Compra: Vino espumoso,18,Vino espumoso,vino,3,520,340,1560
+6,2026-10-15T11:05:24,venta,"Compra: Pan artesanal, Vino espumoso",22,Pan artesanal,acompanamiento,1,40,22,40
+6,2026-10-15T11:05:24,venta,"Compra: Pan artesanal, Vino espumoso",18,Vino espumoso,vino,3,520,340,1560
+7,2026-10-15T11:35:18,venta,Tabla personalizada para 12,7,Peperoni,carne,5,45,28,225
+7,2026-10-15T11:35:18,venta,Tabla personalizada para 12,3,Roast beef,carne,5,65,42,325
+7,2026-10-15T11:35:18,venta,Tabla personalizada para 12,5,Chorizo de Pamplona,carne,5,55,35,275
+7,2026-10-15T11:35:18,venta,Tabla personalizada para 12,9,Queso brie,queso,5,75,48,375
+7,2026-10-15T11:35:18,venta,Tabla personalizada para 12,13,Queso de cabra,queso,5,78,50,390
+7,2026-10-15T11:35:18,venta,Tabla personalizada para 12,8,Queso azul,queso,5,85,55,425
+7,2026-10-15T11:35:18,venta,Tabla personalizada para 12,19,Chocolates,acompanamiento,3,65,40,195
+7,2026-10-15T11:35:18,venta,Tabla personalizada para 12,21,Fruta de temporada,acompanamiento,3,45,25,135
+7,2026-10-15T11:35:18,venta,Tabla personalizada para 12,0,Servicio de armado,servicio,1,260,130.0,260
+8,2026-10-15T14:09:13,venta,Maridaje: Tinto Clásico,15,Vino tinto,vino,2,386.4,280,772.8
+8,2026-10-15T14:09:13,venta,Maridaje: Tinto Clásico,22,Pan artesanal,acompanamiento,2,36.8,22,73.6
+8,2026-10-15T14:09:13,venta,Maridaje: Tinto Clásico,19,Chocolates,acompanamiento,1,59.8,40,59.8
+9,2026-10-15T17:34:07,venta,Maridaje: Blanco Fresco,16,Vino blanco,vino,2,349.6,250,699.2
+9,2026-10-15T17:34:07,venta,Maridaje: Blanco Fresco,21,Fruta de temporada,acompanamiento,3,41.4,25,124.2
+9,2026-10-15T17:34:07,venta,Maridaje: Blanco Fresco,20,Miel,acompanamiento,1,128.8,90,128.8
+10,2026-10-16T11:38:40,venta,"Compra: Vino espumoso, Queso de oveja trufado, Vino rosado",18,Vino espumoso,vino,2,520,340,1040
+10,2026-10-16T11:38:40,venta,"Compra: Vino espumoso, Queso de oveja trufado, Vino rosado",11,Queso de oveja trufado,queso,2,110,70,220
+10,2026-10-16T11:38:40,venta,"Compra: Vino espumoso, Queso de oveja trufado, Vino rosado",17,Vino rosado,vino,3,360,235,1080
+11,2026-10-16T14:05:54,venta,Compra: Salami,6,Salami,carne,2,50,32,100
+12,2026-10-16T15:25:17,venta,"Compra: Lomo canadiense, Queso de cabra, Queso brie",4,Lomo canadiense,carne,1,60,38,60
+12,2026-10-16T15:25:17,venta,"Compra: Lomo canadiense, Queso de cabra, Queso brie",13,Queso de cabra,queso,3,78,50,234
+12,2026-10-16T15:25:17,venta,"Compra: Lomo canadiense, Queso de cabra, Queso brie",9,Queso brie,queso,2,75,48,150
+13,2026-10-16T16:56:58,venta,Tabla Íntima,1,Jamón serrano,carne,1,120,80,120
+13,2026-10-16T16:56:58,venta,Tabla Íntima,6,Salami,carne,1,50,32,50
+13,2026-10-16T16:56:58,venta,Tabla Íntima,9,Queso brie,queso,1,75,48,75
+13,2026-10-16T16:56:58,venta,Tabla Íntima,10,Queso manchego,queso,1,80,52,80
+13,2026-10-16T16:56:58,venta,Tabla Íntima,21,Fruta de temporada,acompanamiento,1,45,25,45
+13,2026-10-16T16:56:58,venta,Tabla Íntima,19,Chocolates,acompanamiento,1,65,40,65
+13,2026-10-16T16:56:58,venta,Tabla Íntima,0,Servicio de armado,servicio,1,90,45.0,90
+14,2026-10-16T17:40:53,venta,"Compra: Queso manchego, Queso de oveja trufado",10,Queso manchego,queso,3,80,52,240
+14,2026-10-16T17:40:53,venta,"Compra: Queso manchego, Queso de oveja trufado",11,Queso de oveja trufado,queso,2,110,70,220
+15,2026-10-16T18:14:43,venta,Compra: Vino espumoso,18,Vino espumoso,vino,1,520,340,520
+16,2026-10-16T20:05:00,merma,Merma: fruta madura,21,Fruta de temporada,acompanamiento,6,45,25,150
+17,2026-10-17T11:09:40,venta,"Compra: Vino tinto, Pan artesanal, Jamón serrano",15,Vino tinto,vino,2,420,280,840
+17,2026-10-17T11:09:40,venta,"Compra: Vino tinto, Pan artesanal, Jamón serrano",22,Pan artesanal,acompanamiento,2,40,22,80
+17,2026-10-17T11:09:40,venta,"Compra: Vino tinto, Pan artesanal, Jamón serrano",1,Jamón serrano,carne,3,120,80,360
+18,2026-10-17T11:43:56,venta,Tabla Reunión,1,Jamón serrano,carne,3,120,80,360
+18,2026-10-17T11:43:56,venta,Tabla Reunión,2,Selva negra,carne,3,70,45,210
+18,2026-10-17T11:43:56,venta,Tabla Reunión,5,Chorizo de Pamplona,carne,3,55,35,165
+18,2026-10-17T11:43:56,venta,Tabla Reunión,9,Queso brie,queso,3,75,48,225
+18,2026-10-17T11:43:56,venta,Tabla Reunión,10,Queso manchego,queso,2,80,52,160
+18,2026-10-17T11:43:56,venta,Tabla Reunión,12,Queso parmesano,queso,2,70,45,140
+18,2026-10-17T11:43:56,venta,Tabla Reunión,21,Fruta de temporada,acompanamiento,1,45,25,45
+18,2026-10-17T11:43:56,venta,Tabla Reunión,22,Pan artesanal,acompanamiento,1,40,22,40
+18,2026-10-17T11:43:56,venta,Tabla Reunión,0,Servicio de armado,servicio,1,160,80.0,160
+19,2026-10-17T12:15:47,venta,Tabla Reunión,1,Jamón serrano,carne,3,120,80,360
+19,2026-10-17T12:15:47,venta,Tabla Reunión,2,Selva negra,carne,3,70,45,210
+19,2026-10-17T12:15:47,venta,Tabla Reunión,5,Chorizo de Pamplona,carne,3,55,35,165
+19,2026-10-17T12:15:47,venta,Tabla Reunión,9,Queso brie,queso,3,75,48,225
+19,2026-10-17T12:15:47,venta,Tabla Reunión,10,Queso manchego,queso,2,80,52,160
+19,2026-10-17T12:15:47,venta,Tabla Reunión,12,Queso parmesano,queso,2,70,45,140
+19,2026-10-17T12:15:47,venta,Tabla Reunión,21,Fruta de temporada,acompanamiento,1,45,25,45
+19,2026-10-17T12:15:47,venta,Tabla Reunión,22,Pan artesanal,acompanamiento,1,40,22,40
+19,2026-10-17T12:15:47,venta,Tabla Reunión,0,Servicio de armado,servicio,1,160,80.0,160
+20,2026-10-17T13:08:32,venta,Tabla Íntima,1,Jamón serrano,carne,1,120,80,120
+20,2026-10-17T13:08:32,venta,Tabla Íntima,6,Salami,carne,1,50,32,50
+20,2026-10-17T13:08:32,venta,Tabla Íntima,9,Queso brie,queso,1,75,48,75
+20,2026-10-17T13:08:32,venta,Tabla Íntima,10,Queso manchego,queso,1,80,52,80
+20,2026-10-17T13:08:32,venta,Tabla Íntima,21,Fruta de temporada,acompanamiento,1,45,25,45
+20,2026-10-17T13:08:32,venta,Tabla Íntima,19,Chocolates,acompanamiento,1,65,40,65
+20,2026-10-17T13:08:32,venta,Tabla Íntima,0,Servicio de armado,servicio,1,90,45.0,90
+21,2026-10-17T15:07:18,venta,"Compra: Jamón serrano, Vino blanco",1,Jamón serrano,carne,3,120,80,360
+21,2026-10-17T15:07:18,venta,"Compra: Jamón serrano, Vino blanco",16,Vino blanco,vino,2,380,250,760
+22,2026-10-17T17:33:16,venta,Maridaje: Rosé de Terraza,17,Vino rosado,vino,1,331.2,235,331.2
+22,2026-10-17T17:33:16,venta,Maridaje: Rosé de Terraza,21,Fruta de temporada,acompanamiento,2,41.4,25,82.8
+22,2026-10-17T17:33:16,venta,Maridaje: Rosé de Terraza,22,Pan artesanal,acompanamiento,1,36.8,22,36.8
+23,2026-10-17T19:27:57,venta,Tabla Reunión,1,Jamón serrano,carne,3,120,80,360
+23,2026-10-17T19:27:57,venta,Tabla Reunión,2,Selva negra,carne,3,70,45,210
+23,2026-10-17T19:27:57,venta,Tabla Reunión,5,Chorizo de Pamplona,carne,3,55,35,165
+23,2026-10-17T19:27:57,venta,Tabla Reunión,9,Queso brie,queso,3,75,48,225
+23,2026-10-17T19:27:57,venta,Tabla Reunión,10,Queso manchego,queso,2,80,52,160
+23,2026-10-17T19:27:57,venta,Tabla Reunión,12,Queso parmesano,queso,2,70,45,140
+23,2026-10-17T19:27:57,venta,Tabla Reunión,21,Fruta de temporada,acompanamiento,1,45,25,45
+23,2026-10-17T19:27:57,venta,Tabla Reunión,22,Pan artesanal,acompanamiento,1,40,22,40
+23,2026-10-17T19:27:57,venta,Tabla Reunión,0,Servicio de armado,servicio,1,160,80.0,160
+24,2026-10-18T11:46:31,venta,Tabla personalizada para 12,7,Peperoni,carne,5,45,28,225
+24,2026-10-18T11:46:31,venta,Tabla personalizada para 12,2,Selva negra,carne,5,70,45,350
+24,2026-10-18T11:46:31,venta,Tabla personalizada para 12,6,Salami,carne,5,50,32,250
+24,2026-10-18T11:46:31,venta,Tabla personalizada para 12,13,Queso de cabra,queso,5,78,50,390
+24,2026-10-18T11:46:31,venta,Tabla personalizada para 12,11,Queso de oveja trufado,queso,5,110,70,550
+24,2026-10-18T11:46:31,venta,Tabla personalizada para 12,12,Queso parmesano,queso,5,70,45,350
+24,2026-10-18T11:46:31,venta,Tabla personalizada para 12,20,Miel,acompanamiento,3,140,90,420
+24,2026-10-18T11:46:31,venta,Tabla personalizada para 12,22,Pan artesanal,acompanamiento,3,40,22,120
+24,2026-10-18T11:46:31,venta,Tabla personalizada para 12,0,Servicio de armado,servicio,1,260,130.0,260
+25,2026-10-18T11:59:23,venta,Maridaje: Tinto Clásico,15,Vino tinto,vino,2,386.4,280,772.8
+25,2026-10-18T11:59:23,venta,Maridaje: Tinto Clásico,22,Pan artesanal,acompanamiento,2,36.8,22,73.6
+25,2026-10-18T11:59:23,venta,Maridaje: Tinto Clásico,19,Chocolates,acompanamiento,1,59.8,40,59.8
+26,2026-10-18T12:23:48,venta,"Compra: Peperoni, Jamón serrano, Pan artesanal",7,Peperoni,carne,2,45,28,90
+26,2026-10-18T12:23:48,venta,"Compra: Peperoni, Jamón serrano, Pan artesanal",1,Jamón serrano,carne,2,120,80,240
+26,2026-10-18T12:23:48,venta,"Compra: Peperoni, Jamón serrano, Pan artesanal",22,Pan artesanal,acompanamiento,1,40,22,40
+27,2026-10-18T12:32:58,venta,"Compra: Queso brie, Queso parmesano, Roast beef",9,Queso brie,queso,3,75,48,225
+27,2026-10-18T12:32:58,venta,"Compra: Queso brie, Queso parmesano, Roast beef",12,Queso parmesano,queso,3,70,45,210
+27,2026-10-18T12:32:58,venta,"Compra: Queso brie, Queso parmesano, Roast beef",3,Roast beef,carne,1,65,42,65
+28,2026-10-18T13:03:15,venta,Maridaje: Rosé de Terraza,17,Vino rosado,vino,1,331.2,235,331.2
+28,2026-10-18T13:03:15,venta,Maridaje: Rosé de Terraza,21,Fruta de temporada,acompanamiento,2,41.4,25,82.8
+28,2026-10-18T13:03:15,venta,Maridaje: Rosé de Terraza,22,Pan artesanal,acompanamiento,1,36.8,22,36.8
+29,2026-10-18T13:14:04,venta,"Compra: Fruta de temporada, Vino espumoso, Pan artesanal",21,Fruta de temporada,acompanamiento,1,45,25,45
+29,2026-10-18T13:14:04,venta,"Compra: Fruta de temporada, Vino espumoso, Pan artesanal",18,Vino espumoso,vino,1,520,340,520
+29,2026-10-18T13:14:04,venta,"Compra: Fruta de temporada, Vino espumoso, Pan artesanal",22,Pan artesanal,acompanamiento,1,40,22,40
+30,2026-10-18T13:45:19,venta,"Compra: Roast beef, Queso manchego, Vino rosado",3,Roast beef,carne,3,65,42,195
+30,2026-10-18T13:45:19,venta,"Compra: Roast beef, Queso manchego, Vino rosado",10,Queso manchego,queso,2,80,52,160
+30,2026-10-18T13:45:19,venta,"Compra: Roast beef, Queso manchego, Vino rosado",17,Vino rosado,vino,1,360,235,360
+31,2026-10-18T18:55:38,venta,Compra: Peperoni,7,Peperoni,carne,3,45,28,135
+32,2026-10-19T10:14:04,venta,Maridaje: Tinto Clásico,15,Vino tinto,vino,2,386.4,280,772.8
+32,2026-10-19T10:14:04,venta,Maridaje: Tinto Clásico,22,Pan artesanal,acompanamiento,2,36.8,22,73.6
+32,2026-10-19T10:14:04,venta,Maridaje: Tinto Clásico,19,Chocolates,acompanamiento,1,59.8,40,59.8
+33,2026-10-19T11:03:25,venta,Tabla personalizada para 2,2,Selva negra,carne,1,70,45,70
+33,2026-10-19T11:03:25,venta,Tabla personalizada para 2,7,Peperoni,carne,1,45,28,45
+33,2026-10-19T11:03:25,venta,Tabla personalizada para 2,9,Queso brie,queso,1,75,48,75
+33,2026-10-19T11:03:25,venta,Tabla personalizada para 2,12,Queso parmesano,queso,1,70,45,70
+33,2026-10-19T11:03:25,venta,Tabla personalizada para 2,22,Pan artesanal,acompanamiento,1,40,22,40
+33,2026-10-19T11:03:25,venta,Tabla personalizada para 2,19,Chocolates,acompanamiento,1,65,40,65
+33,2026-10-19T11:03:25,venta,Tabla personalizada para 2,0,Servicio de armado,servicio,1,90,45.0,90
+34,2026-10-19T11:32:15,venta,"Compra: Queso de oveja trufado, Fruta de temporada",11,Queso de oveja trufado,queso,1,110,70,110
+34,2026-10-19T11:32:15,venta,"Compra: Queso de oveja trufado, Fruta de temporada",21,Fruta de temporada,acompanamiento,3,45,25,135
+35,2026-10-19T11:42:27,venta,"Compra: Vino rosado, Queso holandés",17,Vino rosado,vino,3,360,235,1080
+35,2026-10-19T11:42:27,venta,"Compra: Vino rosado, Queso holandés",14,Queso holandés,queso,1,55,35,55
+36,2026-10-19T19:36:30,venta,"Compra: Queso azul, Vino tinto",8,Queso azul,queso,1,85,55,85
+36,2026-10-19T19:36:30,venta,"Compra: Queso azul, Vino tinto",15,Vino tinto,vino,1,420,280,420
+37,2026-10-19T20:05:00,merma,Merma: pan del día anterior,22,Pan artesanal,acompanamiento,5,40,22,110
+38,2026-10-20T11:03:41,venta,Maridaje: Rosé de Terraza,17,Vino rosado,vino,1,331.2,235,331.2
+38,2026-10-20T11:03:41,venta,Maridaje: Rosé de Terraza,21,Fruta de temporada,acompanamiento,2,41.4,25,82.8
+38,2026-10-20T11:03:41,venta,Maridaje: Rosé de Terraza,22,Pan artesanal,acompanamiento,1,36.8,22,36.8
+39,2026-10-20T11:59:48,venta,Tabla personalizada para 2,4,Lomo canadiense,carne,1,60,38,60
+39,2026-10-20T11:59:48,venta,Tabla personalizada para 2,7,Peperoni,carne,1,45,28,45
+39,2026-10-20T11:59:48,venta,Tabla personalizada para 2,11,Queso de oveja trufado,queso,1,110,70,110
+39,2026-10-20T11:59:48,venta,Tabla personalizada para 2,9,Queso brie,queso,1,75,48,75
+39,2026-10-20T11:59:48,venta,Tabla personalizada para 2,22,Pan artesanal,acompanamiento,1,40,22,40
+39,2026-10-20T11:59:48,venta,Tabla personalizada para 2,19,Chocolates,acompanamiento,1,65,40,65
+39,2026-10-20T11:59:48,venta,Tabla personalizada para 2,0,Servicio de armado,servicio,1,90,45.0,90
+40,2026-10-20T12:17:29,venta,Compra: Vino rosado,17,Vino rosado,vino,3,360,235,1080
+41,2026-10-20T12:24:00,venta,Maridaje: Tinto Clásico,15,Vino tinto,vino,2,386.4,280,772.8
+41,2026-10-20T12:24:00,venta,Maridaje: Tinto Clásico,22,Pan artesanal,acompanamiento,2,36.8,22,73.6
+41,2026-10-20T12:24:00,venta,Maridaje: Tinto Clásico,19,Chocolates,acompanamiento,1,59.8,40,59.8
+42,2026-10-21T14:27:44,venta,Maridaje: Gran Celebración,18,Vino espumoso,vino,3,478.4,340,1435.2
+42,2026-10-21T14:27:44,venta,Maridaje: Gran Celebración,19,Chocolates,acompanamiento,3,59.8,40,179.4
+42,2026-10-21T14:27:44,venta,Maridaje: Gran Celebración,21,Fruta de temporada,acompanamiento,4,41.4,25,165.6
+42,2026-10-21T14:27:44,venta,Maridaje: Gran Celebración,20,Miel,acompanamiento,1,128.8,90,128.8
+43,2026-10-21T17:09:12,venta,Compra: Pan artesanal,22,Pan artesanal,acompanamiento,3,40,22,120
+44,2026-10-21T18:03:47,venta,Compra: Pan artesanal,22,Pan artesanal,acompanamiento,2,40,22,80
+45,2026-10-21T18:58:54,venta,Tabla Íntima,1,Jamón serrano,carne,1,120,80,120
+45,2026-10-21T18:58:54,venta,Tabla Íntima,6,Salami,carne,1,50,32,50
+45,2026-10-21T18:58:54,venta,Tabla Íntima,9,Queso brie,queso,1,75,48,75
+45,2026-10-21T18:58:54,venta,Tabla Íntima,10,Queso manchego,queso,1,80,52,80
+45,2026-10-21T18:58:54,venta,Tabla Íntima,21,Fruta de temporada,acompanamiento,1,45,25,45
+45,2026-10-21T18:58:54,venta,Tabla Íntima,19,Chocolates,acompanamiento,1,65,40,65
+45,2026-10-21T18:58:54,venta,Tabla Íntima,0,Servicio de armado,servicio,1,90,45.0,90
+46,2026-10-22T11:54:11,venta,Compra: Chorizo de Pamplona,5,Chorizo de Pamplona,carne,1,55,35,55
+47,2026-10-22T15:15:16,venta,"Compra: Roast beef, Queso brie, Vino rosado",3,Roast beef,carne,2,65,42,130
+47,2026-10-22T15:15:16,venta,"Compra: Roast beef, Queso brie, Vino rosado",9,Queso brie,queso,1,75,48,75
+47,2026-10-22T15:15:16,venta,"Compra: Roast beef, Queso brie, Vino rosado",17,Vino rosado,vino,1,360,235,360
+48,2026-10-22T16:07:56,venta,Tabla Celebración,1,Jamón serrano,carne,3,120,80,360
+48,2026-10-22T16:07:56,venta,Tabla Celebración,3,Roast beef,carne,3,65,42,195
+48,2026-10-22T16:07:56,venta,Tabla Celebración,4,Lomo canadiense,carne,3,60,38,180
+48,2026-10-22T16:07:56,venta,Tabla Celebración,5,Chorizo de Pamplona,carne,3,55,35,165
+48,2026-10-22T16:07:56,venta,Tabla Celebración,6,Salami,carne,3,50,32,150
+48,2026-10-22T16:07:56,venta,Tabla Celebración,8,Queso azul,queso,3,85,55,255
+48,2026-10-22T16:07:56,venta,Tabla Celebración,9,Queso brie,queso,3,75,48,225
+48,2026-10-22T16:07:56,venta,Tabla Celebración,10,Queso manchego,queso,3,80,52,240
+48,2026-10-22T16:07:56,venta,Tabla Celebración,11,Queso de oveja trufado,queso,3,110,70,330
+48,2026-10-22T16:07:56,venta,Tabla Celebración,13,Queso de cabra,queso,3,78,50,234
+48,2026-10-22T16:07:56,venta,Tabla Celebración,21,Fruta de temporada,acompanamiento,2,45,25,90
+48,2026-10-22T16:07:56,venta,Tabla Celebración,22,Pan artesanal,acompanamiento,2,40,22,80
+48,2026-10-22T16:07:56,venta,Tabla Celebración,20,Miel,acompanamiento,1,140,90,140
+48,2026-10-22T16:07:56,venta,Tabla Celebración,19,Chocolates,acompanamiento,1,65,40,65
+48,2026-10-22T16:07:56,venta,Tabla Celebración,0,Servicio de armado,servicio,1,260,130.0,260
+49,2026-10-22T17:39:36,venta,Maridaje: Rosé de Terraza,17,Vino rosado,vino,1,331.2,235,331.2
+49,2026-10-22T17:39:36,venta,Maridaje: Rosé de Terraza,21,Fruta de temporada,acompanamiento,2,41.4,25,82.8
+49,2026-10-22T17:39:36,venta,Maridaje: Rosé de Terraza,22,Pan artesanal,acompanamiento,1,36.8,22,36.8
+50,2026-10-22T19:02:39,venta,"Compra: Pan artesanal, Miel, Queso brie",22,Pan artesanal,acompanamiento,2,40,22,80
+50,2026-10-22T19:02:39,venta,"Compra: Pan artesanal, Miel, Queso brie",20,Miel,acompanamiento,1,140,90,140
+50,2026-10-22T19:02:39,venta,"Compra: Pan artesanal, Miel, Queso brie",9,Queso brie,queso,3,75,48,225
+51,2026-10-22T20:05:00,merma,Merma: caducado,9,Queso brie,queso,2,75,48,96
+52,2026-10-23T11:40:27,venta,Tabla personalizada para 2,1,Jamón serrano,carne,1,120,80,120
+52,2026-10-23T11:40:27,venta,Tabla personalizada para 2,3,Roast beef,carne,1,65,42,65
+52,2026-10-23T11:40:27,venta,Tabla personalizada para 2,14,Queso holandés,queso,1,55,35,55
+52,2026-10-23T11:40:27,venta,Tabla personalizada para 2,9,Queso brie,queso,1,75,48,75
+52,2026-10-23T11:40:27,venta,Tabla personalizada para 2,21,Fruta de temporada,acompanamiento,1,45,25,45
+52,2026-10-23T11:40:27,venta,Tabla personalizada para 2,19,Chocolates,acompanamiento,1,65,40,65
+52,2026-10-23T11:40:27,venta,Tabla personalizada para 2,0,Servicio de armado,servicio,1,90,45.0,90
+53,2026-10-23T11:56:08,venta,Compra: Vino blanco,16,Vino blanco,vino,3,380,250,1140
+54,2026-10-23T12:17:18,venta,Tabla Celebración,1,Jamón serrano,carne,3,120,80,360
+54,2026-10-23T12:17:18,venta,Tabla Celebración,3,Roast beef,carne,3,65,42,195
+54,2026-10-23T12:17:18,venta,Tabla Celebración,4,Lomo canadiense,carne,3,60,38,180
+54,2026-10-23T12:17:18,venta,Tabla Celebración,5,Chorizo de Pamplona,carne,3,55,35,165
+54,2026-10-23T12:17:18,venta,Tabla Celebración,6,Salami,carne,3,50,32,150
+54,2026-10-23T12:17:18,venta,Tabla Celebración,8,Queso azul,queso,3,85,55,255
+54,2026-10-23T12:17:18,venta,Tabla Celebración,9,Queso brie,queso,3,75,48,225
+54,2026-10-23T12:17:18,venta,Tabla Celebración,10,Queso manchego,queso,3,80,52,240
+54,2026-10-23T12:17:18,venta,Tabla Celebración,11,Queso de oveja trufado,queso,3,110,70,330
+54,2026-10-23T12:17:18,venta,Tabla Celebración,13,Queso de cabra,queso,3,78,50,234
+54,2026-10-23T12:17:18,venta,Tabla Celebración,21,Fruta de temporada,acompanamiento,2,45,25,90
+54,2026-10-23T12:17:18,venta,Tabla Celebración,22,Pan artesanal,acompanamiento,2,40,22,80
+54,2026-10-23T12:17:18,venta,Tabla Celebración,20,Miel,acompanamiento,1,140,90,140
+54,2026-10-23T12:17:18,venta,Tabla Celebración,19,Chocolates,acompanamiento,1,65,40,65
+54,2026-10-23T12:17:18,venta,Tabla Celebración,0,Servicio de armado,servicio,1,260,130.0,260
+55,2026-10-23T13:32:16,venta,"Compra: Lomo canadiense, Jamón serrano",4,Lomo canadiense,carne,1,60,38,60
+55,2026-10-23T13:32:16,venta,"Compra: Lomo canadiense, Jamón serrano",1,Jamón serrano,carne,2,120,80,240
+56,2026-10-23T14:10:28,venta,Tabla personalizada para 12,3,Roast beef,carne,5,65,42,325
+56,2026-10-23T14:10:28,venta,Tabla personalizada para 12,5,Chorizo de Pamplona,carne,5,55,35,275
+56,2026-10-23T14:10:28,venta,Tabla personalizada para 12,6,Salami,carne,5,50,32,250
+56,2026-10-23T14:10:28,venta,Tabla personalizada para 12,8,Queso azul,queso,5,85,55,425
+56,2026-10-23T14:10:28,venta,Tabla personalizada para 12,13,Queso de cabra,queso,5,78,50,390
+56,2026-10-23T14:10:28,venta,Tabla personalizada para 12,12,Queso parmesano,queso,5,70,45,350
+56,2026-10-23T14:10:28,venta,Tabla personalizada para 12,21,Fruta de temporada,acompanamiento,3,45,25,135
+56,2026-10-23T14:10:28,venta,Tabla personalizada para 12,22,Pan artesanal,acompanamiento,3,40,22,120
+56,2026-10-23T14:10:28,venta,Tabla personalizada para 12,0,Servicio de armado,servicio,1,260,130.0,260
+57,2026-10-23T15:13:43,venta,Tabla Reunión,1,Jamón serrano,carne,3,120,80,360
+57,2026-10-23T15:13:43,venta,Tabla Reunión,2,Selva negra,carne,3,70,45,210
+57,2026-10-23T15:13:43,venta,Tabla Reunión,5,Chorizo de Pamplona,carne,3,55,35,165
+57,2026-10-23T15:13:43,venta,Tabla Reunión,9,Queso brie,queso,3,75,48,225
+57,2026-10-23T15:13:43,venta,Tabla Reunión,10,Queso manchego,queso,2,80,52,160
+57,2026-10-23T15:13:43,venta,Tabla Reunión,12,Queso parmesano,queso,2,70,45,140
+57,2026-10-23T15:13:43,venta,Tabla Reunión,21,Fruta de temporada,acompanamiento,1,45,25,45
+57,2026-10-23T15:13:43,venta,Tabla Reunión,22,Pan artesanal,acompanamiento,1,40,22,40
+57,2026-10-23T15:13:43,venta,Tabla Reunión,0,Servicio de armado,servicio,1,160,80.0,160
+58,2026-10-23T17:35:45,venta,Compra: Selva negra,2,Selva negra,carne,1,70,45,70
+59,2026-10-23T18:31:16,venta,Maridaje: Rosé de Terraza,17,Vino rosado,vino,1,331.2,235,331.2
+59,2026-10-23T18:31:16,venta,Maridaje: Rosé de Terraza,21,Fruta de temporada,acompanamiento,2,41.4,25,82.8
+59,2026-10-23T18:31:16,venta,Maridaje: Rosé de Terraza,22,Pan artesanal,acompanamiento,1,36.8,22,36.8
+60,2026-10-24T12:34:02,venta,Tabla personalizada para 12,5,Chorizo de Pamplona,carne,5,55,35,275
+60,2026-10-24T12:34:02,venta,Tabla personalizada para 12,2,Selva negra,carne,5,70,45,350
+60,2026-10-24T12:34:02,venta,Tabla personalizada para 12,4,Lomo canadiense,carne,5,60,38,300
+60,2026-10-24T12:34:02,venta,Tabla personalizada para 12,9,Queso brie,queso,5,75,48,375
+60,2026-10-24T12:34:02,venta,Tabla personalizada para 12,8,Queso azul,queso,5,85,55,425
+60,2026-10-24T12:34:02,venta,Tabla personalizada para 12,10,Queso manchego,queso,5,80,52,400
+60,2026-10-24T12:34:02,venta,Tabla personalizada para 12,21,Fruta de temporada,acompanamiento,3,45,25,135
+60,2026-10-24T12:34:02,venta,Tabla personalizada para 12,19,Chocolates,acompanamiento,3,65,40,195
+60,2026-10-24T12:34:02,venta,Tabla personalizada para 12,0,Servicio de armado,servicio,1,260,130.0,260
+61,2026-10-24T12:56:26,venta,"Compra: Peperoni, Queso brie, Queso azul",7,Peperoni,carne,2,45,28,90
+61,2026-10-24T12:56:26,venta,"Compra: Peperoni, Queso brie, Queso azul",9,Queso brie,queso,3,75,48,225
+61,2026-10-24T12:56:26,venta,"Compra: Peperoni, Queso brie, Queso azul",8,Queso azul,queso,3,85,55,255
+62,2026-10-24T13:17:10,venta,Tabla personalizada para 2,4,Lomo canadiense,carne,1,60,38,60
+62,2026-10-24T13:17:10,venta,Tabla personalizada para 2,1,Jamón serrano,carne,1,120,80,120
+62,2026-10-24T13:17:10,venta,Tabla personalizada para 2,14,Queso holandés,queso,1,55,35,55
+62,2026-10-24T13:17:10,venta,Tabla personalizada para 2,11,Queso de oveja trufado,queso,1,110,70,110
+62,2026-10-24T13:17:10,venta,Tabla personalizada para 2,20,Miel,acompanamiento,1,140,90,140
+62,2026-10-24T13:17:10,venta,Tabla personalizada para 2,19,Chocolates,acompanamiento,1,65,40,65
+62,2026-10-24T13:17:10,venta,Tabla personalizada para 2,0,Servicio de armado,servicio,1,90,45.0,90
+63,2026-10-24T14:55:04,venta,Maridaje: Tinto Clásico,15,Vino tinto,vino,2,386.4,280,772.8
+63,2026-10-24T14:55:04,venta,Maridaje: Tinto Clásico,22,Pan artesanal,acompanamiento,2,36.8,22,73.6
+63,2026-10-24T14:55:04,venta,Maridaje: Tinto Clásico,19,Chocolates,acompanamiento,1,59.8,40,59.8
+64,2026-10-24T15:13:43,venta,Compra: Queso manchego,10,Queso manchego,queso,3,80,52,240
+65,2026-10-24T15:41:32,venta,"Compra: Queso brie, Jamón serrano, Selva negra",9,Queso brie,queso,2,75,48,150
+65,2026-10-24T15:41:32,venta,"Compra: Queso brie, Jamón serrano, Selva negra",1,Jamón serrano,carne,1,120,80,120
+65,2026-10-24T15:41:32,venta,"Compra: Queso brie, Jamón serrano, Selva negra",2,Selva negra,carne,3,70,45,210
+66,2026-10-24T16:39:47,venta,Compra: Queso holandés,14,Queso holandés,queso,1,55,35,55
+67,2026-10-24T17:22:19,venta,Tabla personalizada para 2,2,Selva negra,carne,1,70,45,70
+67,2026-10-24T17:22:19,venta,Tabla personalizada para 2,1,Jamón serrano,carne,1,120,80,120
+67,2026-10-24T17:22:19,venta,Tabla personalizada para 2,13,Queso de cabra,queso,1,78,50,78
+67,2026-10-24T17:22:19,venta,Tabla personalizada para 2,9,Queso brie,queso,1,75,48,75
+67,2026-10-24T17:22:19,venta,Tabla personalizada para 2,22,Pan artesanal,acompanamiento,1,40,22,40
+67,2026-10-24T17:22:19,venta,Tabla personalizada para 2,20,Miel,acompanamiento,1,140,90,140
+67,2026-10-24T17:22:19,venta,Tabla personalizada para 2,0,Servicio de armado,servicio,1,90,45.0,90
+68,2026-10-25T10:06:38,venta,"Compra: Queso azul, Queso brie, Vino tinto",8,Queso azul,queso,3,85,55,255
+68,2026-10-25T10:06:38,venta,"Compra: Queso azul, Queso brie, Vino tinto",9,Queso brie,queso,3,75,48,225
+68,2026-10-25T10:06:38,venta,"Compra: Queso azul, Queso brie, Vino tinto",15,Vino tinto,vino,1,420,280,420
+69,2026-10-25T10:33:59,venta,Tabla personalizada para 12,6,Salami,carne,5,50,32,250
+69,2026-10-25T10:33:59,venta,Tabla personalizada para 12,7,Peperoni,carne,5,45,28,225
+69,2026-10-25T10:33:59,venta,Tabla personalizada para 12,2,Selva negra,carne,5,70,45,350
+69,2026-10-25T10:33:59,venta,Tabla personalizada para 12,10,Queso manchego,queso,5,80,52,400
+69,2026-10-25T10:33:59,venta,Tabla personalizada para 12,11,Queso de oveja trufado,queso,5,110,70,550
+69,2026-10-25T10:33:59,venta,Tabla personalizada para 12,8,Queso azul,queso,5,85,55,425
+69,2026-10-25T10:33:59,venta,Tabla personalizada para 12,21,Fruta de temporada,acompanamiento,3,45,25,135
+69,2026-10-25T10:33:59,venta,Tabla personalizada para 12,22,Pan artesanal,acompanamiento,3,40,22,120
+69,2026-10-25T10:33:59,venta,Tabla personalizada para 12,0,Servicio de armado,servicio,1,260,130.0,260
+70,2026-10-25T15:25:44,venta,Compra: Queso de oveja trufado,11,Queso de oveja trufado,queso,2,110,70,220
+71,2026-10-25T15:42:54,venta,"Compra: Miel, Queso brie",20,Miel,acompanamiento,3,140,90,420
+71,2026-10-25T15:42:54,venta,"Compra: Miel, Queso brie",9,Queso brie,queso,2,75,48,150
+72,2026-10-25T16:43:47,venta,Maridaje: Gran Celebración,18,Vino espumoso,vino,3,478.4,340,1435.2
+72,2026-10-25T16:43:47,venta,Maridaje: Gran Celebración,19,Chocolates,acompanamiento,3,59.8,40,179.4
+72,2026-10-25T16:43:47,venta,Maridaje: Gran Celebración,21,Fruta de temporada,acompanamiento,4,41.4,25,165.6
+72,2026-10-25T16:43:47,venta,Maridaje: Gran Celebración,20,Miel,acompanamiento,1,128.8,90,128.8
+73,2026-10-25T16:57:36,venta,Compra: Queso de cabra,13,Queso de cabra,queso,2,78,50,156
+74,2026-10-25T19:19:25,venta,Tabla Íntima,1,Jamón serrano,carne,1,120,80,120
+74,2026-10-25T19:19:25,venta,Tabla Íntima,6,Salami,carne,1,50,32,50
+74,2026-10-25T19:19:25,venta,Tabla Íntima,9,Queso brie,queso,1,75,48,75
+74,2026-10-25T19:19:25,venta,Tabla Íntima,10,Queso manchego,queso,1,80,52,80
+74,2026-10-25T19:19:25,venta,Tabla Íntima,21,Fruta de temporada,acompanamiento,1,45,25,45
+74,2026-10-25T19:19:25,venta,Tabla Íntima,19,Chocolates,acompanamiento,1,65,40,65
+74,2026-10-25T19:19:25,venta,Tabla Íntima,0,Servicio de armado,servicio,1,90,45.0,90
+75,2026-10-26T12:42:05,venta,"Compra: Roast beef, Pan artesanal, Queso brie",3,Roast beef,carne,1,65,42,65
+75,2026-10-26T12:42:05,venta,"Compra: Roast beef, Pan artesanal, Queso brie",22,Pan artesanal,acompanamiento,1,40,22,40
+75,2026-10-26T12:42:05,venta,"Compra: Roast beef, Pan artesanal, Queso brie",9,Queso brie,queso,3,75,48,225
+76,2026-10-26T14:13:27,venta,Tabla personalizada para 12,6,Salami,carne,5,50,32,250
+76,2026-10-26T14:13:27,venta,Tabla personalizada para 12,3,Roast beef,carne,5,65,42,325
+76,2026-10-26T14:13:27,venta,Tabla personalizada para 12,4,Lomo canadiense,carne,5,60,38,300
+76,2026-10-26T14:13:27,venta,Tabla personalizada para 12,11,Queso de oveja trufado,queso,5,110,70,550
+76,2026-10-26T14:13:27,venta,Tabla personalizada para 12,14,Queso holandés,queso,5,55,35,275
+76,2026-10-26T14:13:27,venta,Tabla personalizada para 12,9,Queso brie,queso,5,75,48,375
+76,2026-10-26T14:13:27,venta,Tabla personalizada para 12,22,Pan artesanal,acompanamiento,3,40,22,120
+76,2026-10-26T14:13:27,venta,Tabla personalizada para 12,21,Fruta de temporada,acompanamiento,3,45,25,135
+76,2026-10-26T14:13:27,venta,Tabla personalizada para 12,0,Servicio de armado,servicio,1,260,130.0,260
+77,2026-10-26T14:14:51,venta,Compra: Jamón serrano,1,Jamón serrano,carne,1,120,80,120
+78,2026-10-26T17:39:54,venta,Tabla personalizada para 6,4,Lomo canadiense,carne,3,60,38,180
+78,2026-10-26T17:39:54,venta,Tabla personalizada para 6,6,Salami,carne,3,50,32,150
+78,2026-10-26T17:39:54,venta,Tabla personalizada para 6,5,Chorizo de Pamplona,carne,3,55,35,165
+78,2026-10-26T17:39:54,venta,Tabla personalizada para 6,9,Queso brie,queso,3,75,48,225
+78,2026-10-26T17:39:54,venta,Tabla personalizada para 6,13,Queso de cabra,queso,2,78,50,156
+78,2026-10-26T17:39:54,venta,Tabla personalizada para 6,11,Queso de oveja trufado,queso,2,110,70,220
+78,2026-10-26T17:39:54,venta,Tabla personalizada para 6,22,Pan artesanal,acompanamiento,1,40,22,40
+78,2026-10-26T17:39:54,venta,Tabla personalizada para 6,20,Miel,acompanamiento,1,140,90,140
+78,2026-10-26T17:39:54,venta,Tabla personalizada para 6,0,Servicio de armado,servicio,1,160,80.0,160
+79,2026-10-26T20:05:00,merma,Merma: fruta madura,21,Fruta de temporada,acompanamiento,8,45,25,200
+80,2026-10-27T12:41:44,venta,Compra: Canasta para picnic,23,Canasta para picnic,canasta,2,950,600,1900
+81,2026-10-27T13:11:51,venta,Maridaje: Gran Celebración,18,Vino espumoso,vino,3,478.4,340,1435.2
+81,2026-10-27T13:11:51,venta,Maridaje: Gran Celebración,19,Chocolates,acompanamiento,3,59.8,40,179.4
+81,2026-10-27T13:11:51,venta,Maridaje: Gran Celebración,21,Fruta de temporada,acompanamiento,4,41.4,25,165.6
+81,2026-10-27T13:11:51,venta,Maridaje: Gran Celebración,20,Miel,acompanamiento,1,128.8,90,128.8
+82,2026-10-27T17:03:35,venta,Compra: Vino rosado,17,Vino rosado,vino,1,360,235,360
+83,2026-10-28T14:15:17,venta,"Compra: Jamón serrano, Selva negra, Vino espumoso",1,Jamón serrano,carne,2,120,80,240
+83,2026-10-28T14:15:17,venta,"Compra: Jamón serrano, Selva negra, Vino espumoso",2,Selva negra,carne,3,70,45,210
+83,2026-10-28T14:15:17,venta,"Compra: Jamón serrano, Selva negra, Vino espumoso",18,Vino espumoso,vino,1,520,340,520
+84,2026-10-28T16:53:58,venta,Tabla Íntima,1,Jamón serrano,carne,1,120,80,120
+84,2026-10-28T16:53:58,venta,Tabla Íntima,6,Salami,carne,1,50,32,50
+84,2026-10-28T16:53:58,venta,Tabla Íntima,9,Queso brie,queso,1,75,48,75
+84,2026-10-28T16:53:58,venta,Tabla Íntima,10,Queso manchego,queso,1,80,52,80
+84,2026-10-28T16:53:58,venta,Tabla Íntima,21,Fruta de temporada,acompanamiento,1,45,25,45
+84,2026-10-28T16:53:58,venta,Tabla Íntima,19,Chocolates,acompanamiento,1,65,40,65
+84,2026-10-28T16:53:58,venta,Tabla Íntima,0,Servicio de armado,servicio,1,90,45.0,90
+85,2026-10-28T17:28:16,venta,Tabla personalizada para 12,3,Roast beef,carne,5,65,42,325
+85,2026-10-28T17:28:16,venta,Tabla personalizada para 12,5,Chorizo de Pamplona,carne,5,55,35,275
+85,2026-10-28T17:28:16,venta,Tabla personalizada para 12,4,Lomo canadiense,carne,5,60,38,300
+85,2026-10-28T17:28:16,venta,Tabla personalizada para 12,13,Queso de cabra,queso,5,78,50,390
+85,2026-10-28T17:28:16,venta,Tabla personalizada para 12,9,Queso brie,queso,5,75,48,375
+85,2026-10-28T17:28:16,venta,Tabla personalizada para 12,10,Queso manchego,queso,5,80,52,400
+85,2026-10-28T17:28:16,venta,Tabla personalizada para 12,22,Pan artesanal,acompanamiento,3,40,22,120
+85,2026-10-28T17:28:16,venta,Tabla personalizada para 12,19,Chocolates,acompanamiento,3,65,40,195
+85,2026-10-28T17:28:16,venta,Tabla personalizada para 12,0,Servicio de armado,servicio,1,260,130.0,260
+86,2026-10-28T18:35:38,venta,"Compra: Pan artesanal, Queso parmesano",22,Pan artesanal,acompanamiento,3,40,22,120
+86,2026-10-28T18:35:38,venta,"Compra: Pan artesanal, Queso parmesano",12,Queso parmesano,queso,3,70,45,210
+87,2026-10-28T20:05:00,merma,Merma: empaque dañado,6,Salami,carne,3,50,32,96
+88,2026-10-29T13:04:26,venta,"Compra: Vino rosado, Vino tinto, Jamón serrano",17,Vino rosado,vino,1,360,235,360
+88,2026-10-29T13:04:26,venta,"Compra: Vino rosado, Vino tinto, Jamón serrano",15,Vino tinto,vino,2,420,280,840
+88,2026-10-29T13:04:26,venta,"Compra: Vino rosado, Vino tinto, Jamón serrano",1,Jamón serrano,carne,2,120,80,240
+89,2026-10-29T16:30:00,venta,Maridaje: Tinto Clásico,15,Vino tinto,vino,2,386.4,280,772.8
+89,2026-10-29T16:30:00,venta,Maridaje: Tinto Clásico,22,Pan artesanal,acompanamiento,2,36.8,22,73.6
+89,2026-10-29T16:30:00,venta,Maridaje: Tinto Clásico,19,Chocolates,acompanamiento,1,59.8,40,59.8
+90,2026-10-29T16:54:57,venta,Maridaje: Blanco Fresco,16,Vino blanco,vino,2,349.6,250,699.2
+90,2026-10-29T16:54:57,venta,Maridaje: Blanco Fresco,21,Fruta de temporada,acompanamiento,3,41.4,25,124.2
+90,2026-10-29T16:54:57,venta,Maridaje: Blanco Fresco,20,Miel,acompanamiento,1,128.8,90,128.8
+91,2026-10-29T18:47:47,venta,Tabla Celebración,1,Jamón serrano,carne,3,120,80,360
+91,2026-10-29T18:47:47,venta,Tabla Celebración,3,Roast beef,carne,3,65,42,195
+91,2026-10-29T18:47:47,venta,Tabla Celebración,4,Lomo canadiense,carne,3,60,38,180
+91,2026-10-29T18:47:47,venta,Tabla Celebración,5,Chorizo de Pamplona,carne,3,55,35,165
+91,2026-10-29T18:47:47,venta,Tabla Celebración,6,Salami,carne,3,50,32,150
+91,2026-10-29T18:47:47,venta,Tabla Celebración,8,Queso azul,queso,3,85,55,255
+91,2026-10-29T18:47:47,venta,Tabla Celebración,9,Queso brie,queso,3,75,48,225
+91,2026-10-29T18:47:47,venta,Tabla Celebración,10,Queso manchego,queso,3,80,52,240
+91,2026-10-29T18:47:47,venta,Tabla Celebración,11,Queso de oveja trufado,queso,3,110,70,330
+91,2026-10-29T18:47:47,venta,Tabla Celebración,13,Queso de cabra,queso,3,78,50,234
+91,2026-10-29T18:47:47,venta,Tabla Celebración,21,Fruta de temporada,acompanamiento,2,45,25,90
+91,2026-10-29T18:47:47,venta,Tabla Celebración,22,Pan artesanal,acompanamiento,2,40,22,80
+91,2026-10-29T18:47:47,venta,Tabla Celebración,20,Miel,acompanamiento,1,140,90,140
+91,2026-10-29T18:47:47,venta,Tabla Celebración,19,Chocolates,acompanamiento,1,65,40,65
+91,2026-10-29T18:47:47,venta,Tabla Celebración,0,Servicio de armado,servicio,1,260,130.0,260
+92,2026-10-29T19:44:01,venta,Maridaje: Gran Celebración,18,Vino espumoso,vino,3,478.4,340,1435.2
+92,2026-10-29T19:44:01,venta,Maridaje: Gran Celebración,19,Chocolates,acompanamiento,3,59.8,40,179.4
+92,2026-10-29T19:44:01,venta,Maridaje: Gran Celebración,21,Fruta de temporada,acompanamiento,4,41.4,25,165.6
+92,2026-10-29T19:44:01,venta,Maridaje: Gran Celebración,20,Miel,acompanamiento,1,128.8,90,128.8
+93,2026-10-30T10:22:14,venta,Tabla Celebración,1,Jamón serrano,carne,3,120,80,360
+93,2026-10-30T10:22:14,venta,Tabla Celebración,3,Roast beef,carne,3,65,42,195
+93,2026-10-30T10:22:14,venta,Tabla Celebración,4,Lomo canadiense,carne,3,60,38,180
+93,2026-10-30T10:22:14,venta,Tabla Celebración,5,Chorizo de Pamplona,carne,3,55,35,165
+93,2026-10-30T10:22:14,venta,Tabla Celebración,6,Salami,carne,3,50,32,150
+93,2026-10-30T10:22:14,venta,Tabla Celebración,8,Queso azul,queso,3,85,55,255
+93,2026-10-30T10:22:14,venta,Tabla Celebración,9,Queso brie,queso,3,75,48,225
+93,2026-10-30T10:22:14,venta,Tabla Celebración,10,Queso manchego,queso,3,80,52,240
+93,2026-10-30T10:22:14,venta,Tabla Celebración,11,Queso de oveja trufado,queso,3,110,70,330
+93,2026-10-30T10:22:14,venta,Tabla Celebración,13,Queso de cabra,queso,3,78,50,234
+93,2026-10-30T10:22:14,venta,Tabla Celebración,21,Fruta de temporada,acompanamiento,2,45,25,90
+93,2026-10-30T10:22:14,venta,Tabla Celebración,22,Pan artesanal,acompanamiento,2,40,22,80
+93,2026-10-30T10:22:14,venta,Tabla Celebración,20,Miel,acompanamiento,1,140,90,140
+93,2026-10-30T10:22:14,venta,Tabla Celebración,19,Chocolates,acompanamiento,1,65,40,65
+93,2026-10-30T10:22:14,venta,Tabla Celebración,0,Servicio de armado,servicio,1,260,130.0,260
+94,2026-10-30T14:24:20,venta,"Compra: Queso brie, Canasta para picnic",9,Queso brie,queso,2,75,48,150
+94,2026-10-30T14:24:20,venta,"Compra: Queso brie, Canasta para picnic",23,Canasta para picnic,canasta,2,950,600,1900
+95,2026-10-30T16:08:55,venta,Tabla Íntima,1,Jamón serrano,carne,1,120,80,120
+95,2026-10-30T16:08:55,venta,Tabla Íntima,6,Salami,carne,1,50,32,50
+95,2026-10-30T16:08:55,venta,Tabla Íntima,9,Queso brie,queso,1,75,48,75
+95,2026-10-30T16:08:55,venta,Tabla Íntima,10,Queso manchego,queso,1,80,52,80
+95,2026-10-30T16:08:55,venta,Tabla Íntima,21,Fruta de temporada,acompanamiento,1,45,25,45
+95,2026-10-30T16:08:55,venta,Tabla Íntima,19,Chocolates,acompanamiento,1,65,40,65
+95,2026-10-30T16:08:55,venta,Tabla Íntima,0,Servicio de armado,servicio,1,90,45.0,90
+96,2026-10-30T16:16:53,venta,Compra: Vino blanco,16,Vino blanco,vino,3,380,250,1140
+97,2026-10-30T16:46:10,venta,Tabla personalizada para 2,5,Chorizo de Pamplona,carne,1,55,35,55
+97,2026-10-30T16:46:10,venta,Tabla personalizada para 2,7,Peperoni,carne,1,45,28,45
+97,2026-10-30T16:46:10,venta,Tabla personalizada para 2,8,Queso azul,queso,1,85,55,85
+97,2026-10-30T16:46:10,venta,Tabla personalizada para 2,11,Queso de oveja trufado,queso,1,110,70,110
+97,2026-10-30T16:46:10,venta,Tabla personalizada para 2,19,Chocolates,acompanamiento,1,65,40,65
+97,2026-10-30T16:46:10,venta,Tabla personalizada para 2,22,Pan artesanal,acompanamiento,1,40,22,40
+97,2026-10-30T16:46:10,venta,Tabla personalizada para 2,0,Servicio de armado,servicio,1,90,45.0,90
+98,2026-10-30T17:14:17,venta,Compra: Salami,6,Salami,carne,2,50,32,100
+99,2026-10-31T10:15:12,venta,Tabla personalizada para 12,2,Selva negra,carne,5,70,45,350
+99,2026-10-31T10:15:12,venta,Tabla personalizada para 12,7,Peperoni,carne,5,45,28,225
+99,2026-10-31T10:15:12,venta,Tabla personalizada para 12,6,Salami,carne,5,50,32,250
+99,2026-10-31T10:15:12,venta,Tabla personalizada para 12,11,Queso de oveja trufado,queso,5,110,70,550
+99,2026-10-31T10:15:12,venta,Tabla personalizada para 12,13,Queso de cabra,queso,5,78,50,390
+99,2026-10-31T10:15:12,venta,Tabla personalizada para 12,8,Queso azul,queso,5,85,55,425
+99,2026-10-31T10:15:12,venta,Tabla personalizada para 12,20,Miel,acompanamiento,3,140,90,420
+99,2026-10-31T10:15:12,venta,Tabla personalizada para 12,22,Pan artesanal,acompanamiento,3,40,22,120
+99,2026-10-31T10:15:12,venta,Tabla personalizada para 12,0,Servicio de armado,servicio,1,260,130.0,260
+100,2026-10-31T13:06:44,venta,Tabla personalizada para 12,5,Chorizo de Pamplona,carne,5,55,35,275
+100,2026-10-31T13:06:44,venta,Tabla personalizada para 12,1,Jamón serrano,carne,5,120,80,600
+100,2026-10-31T13:06:44,venta,Tabla personalizada para 12,7,Peperoni,carne,5,45,28,225
+100,2026-10-31T13:06:44,venta,Tabla personalizada para 12,14,Queso holandés,queso,5,55,35,275
+100,2026-10-31T13:06:44,venta,Tabla personalizada para 12,8,Queso azul,queso,5,85,55,425
+100,2026-10-31T13:06:44,venta,Tabla personalizada para 12,10,Queso manchego,queso,5,80,52,400
+100,2026-10-31T13:06:44,venta,Tabla personalizada para 12,22,Pan artesanal,acompanamiento,3,40,22,120
+100,2026-10-31T13:06:44,venta,Tabla personalizada para 12,21,Fruta de temporada,acompanamiento,3,45,25,135
+100,2026-10-31T13:06:44,venta,Tabla personalizada para 12,0,Servicio de armado,servicio,1,260,130.0,260
+101,2026-10-31T14:49:23,venta,"Compra: Vino blanco, Queso de cabra, Selva negra",16,Vino blanco,vino,1,380,250,380
+101,2026-10-31T14:49:23,venta,"Compra: Vino blanco, Queso de cabra, Selva negra",13,Queso de cabra,queso,2,78,50,156
+101,2026-10-31T14:49:23,venta,"Compra: Vino blanco, Queso de cabra, Selva negra",2,Selva negra,carne,1,70,45,70
+102,2026-10-31T15:04:32,venta,Tabla Íntima,1,Jamón serrano,carne,1,120,80,120
+102,2026-10-31T15:04:32,venta,Tabla Íntima,6,Salami,carne,1,50,32,50
+102,2026-10-31T15:04:32,venta,Tabla Íntima,9,Queso brie,queso,1,75,48,75
+102,2026-10-31T15:04:32,venta,Tabla Íntima,10,Queso manchego,queso,1,80,52,80
+102,2026-10-31T15:04:32,venta,Tabla Íntima,21,Fruta de temporada,acompanamiento,1,45,25,45
+102,2026-10-31T15:04:32,venta,Tabla Íntima,19,Chocolates,acompanamiento,1,65,40,65
+102,2026-10-31T15:04:32,venta,Tabla Íntima,0,Servicio de armado,servicio,1,90,45.0,90
+103,2026-10-31T16:52:31,venta,"Compra: Roast beef, Lomo canadiense",3,Roast beef,carne,2,65,42,130
+103,2026-10-31T16:52:31,venta,"Compra: Roast beef, Lomo canadiense",4,Lomo canadiense,carne,3,60,38,180
+104,2026-10-31T19:01:59,venta,"Compra: Peperoni, Salami, Queso de cabra",7,Peperoni,carne,1,45,28,45
+104,2026-10-31T19:01:59,venta,"Compra: Peperoni, Salami, Queso de cabra",6,Salami,carne,1,50,32,50
+104,2026-10-31T19:01:59,venta,"Compra: Peperoni, Salami, Queso de cabra",13,Queso de cabra,queso,3,78,50,234
+105,2026-10-31T20:05:00,merma,Merma: botella rota,16,Vino blanco,vino,1,380,250,250
+106,2026-11-01T13:22:51,venta,"Compra: Lomo canadiense, Pan artesanal",4,Lomo canadiense,carne,3,60,38,180
+106,2026-11-01T13:22:51,venta,"Compra: Lomo canadiense, Pan artesanal",22,Pan artesanal,acompanamiento,2,40,22,80
+107,2026-11-01T14:39:51,venta,Maridaje: Blanco Fresco,16,Vino blanco,vino,2,349.6,250,699.2
+107,2026-11-01T14:39:51,venta,Maridaje: Blanco Fresco,21,Fruta de temporada,acompanamiento,3,41.4,25,124.2
+107,2026-11-01T14:39:51,venta,Maridaje: Blanco Fresco,20,Miel,acompanamiento,1,128.8,90,128.8
+108,2026-11-01T16:11:46,venta,Tabla Celebración,1,Jamón serrano,carne,3,120,80,360
+108,2026-11-01T16:11:46,venta,Tabla Celebración,3,Roast beef,carne,3,65,42,195
+108,2026-11-01T16:11:46,venta,Tabla Celebración,4,Lomo canadiense,carne,3,60,38,180
+108,2026-11-01T16:11:46,venta,Tabla Celebración,5,Chorizo de Pamplona,carne,3,55,35,165
+108,2026-11-01T16:11:46,venta,Tabla Celebración,6,Salami,carne,3,50,32,150
+108,2026-11-01T16:11:46,venta,Tabla Celebración,8,Queso azul,queso,3,85,55,255
+108,2026-11-01T16:11:46,venta,Tabla Celebración,9,Queso brie,queso,3,75,48,225
+108,2026-11-01T16:11:46,venta,Tabla Celebración,10,Queso manchego,queso,3,80,52,240
+108,2026-11-01T16:11:46,venta,Tabla Celebración,11,Queso de oveja trufado,queso,3,110,70,330
+108,2026-11-01T16:11:46,venta,Tabla Celebración,13,Queso de cabra,queso,3,78,50,234
+108,2026-11-01T16:11:46,venta,Tabla Celebración,21,Fruta de temporada,acompanamiento,2,45,25,90
+108,2026-11-01T16:11:46,venta,Tabla Celebración,22,Pan artesanal,acompanamiento,2,40,22,80
+108,2026-11-01T16:11:46,venta,Tabla Celebración,20,Miel,acompanamiento,1,140,90,140
+108,2026-11-01T16:11:46,venta,Tabla Celebración,19,Chocolates,acompanamiento,1,65,40,65
+108,2026-11-01T16:11:46,venta,Tabla Celebración,0,Servicio de armado,servicio,1,260,130.0,260
+109,2026-11-01T17:27:52,venta,Tabla personalizada para 6,3,Roast beef,carne,3,65,42,195
+109,2026-11-01T17:27:52,venta,Tabla personalizada para 6,2,Selva negra,carne,3,70,45,210
+109,2026-11-01T17:27:52,venta,Tabla personalizada para 6,1,Jamón serrano,carne,3,120,80,360
+109,2026-11-01T17:27:52,venta,Tabla personalizada para 6,10,Queso manchego,queso,3,80,52,240
+109,2026-11-01T17:27:52,venta,Tabla personalizada para 6,11,Queso de oveja trufado,queso,2,110,70,220
+109,2026-11-01T17:27:52,venta,Tabla personalizada para 6,9,Queso brie,queso,2,75,48,150
+109,2026-11-01T17:27:52,venta,Tabla personalizada para 6,22,Pan artesanal,acompanamiento,1,40,22,40
+109,2026-11-01T17:27:52,venta,Tabla personalizada para 6,21,Fruta de temporada,acompanamiento,1,45,25,45
+109,2026-11-01T17:27:52,venta,Tabla personalizada para 6,0,Servicio de armado,servicio,1,160,80.0,160
+110,2026-11-01T18:00:33,venta,Maridaje: Rosé de Terraza,17,Vino rosado,vino,1,331.2,235,331.2
+110,2026-11-01T18:00:33,venta,Maridaje: Rosé de Terraza,21,Fruta de temporada,acompanamiento,2,41.4,25,82.8
+110,2026-11-01T18:00:33,venta,Maridaje: Rosé de Terraza,22,Pan artesanal,acompanamiento,1,36.8,22,36.8
+111,2026-11-01T19:42:24,venta,"Compra: Queso holandés, Queso brie",14,Queso holandés,queso,1,55,35,55
+111,2026-11-01T19:42:24,venta,"Compra: Queso holandés, Queso brie",9,Queso brie,queso,2,75,48,150
+112,2026-11-02T16:31:35,venta,Tabla personalizada para 12,4,Lomo canadiense,carne,5,60,38,300
+112,2026-11-02T16:31:35,venta,Tabla personalizada para 12,6,Salami,carne,5,50,32,250
+112,2026-11-02T16:31:35,venta,Tabla personalizada para 12,7,Peperoni,carne,5,45,28,225
+112,2026-11-02T16:31:35,venta,Tabla personalizada para 12,11,Queso de oveja trufado,queso,5,110,70,550
+112,2026-11-02T16:31:35,venta,Tabla personalizada para 12,8,Queso azul,queso,5,85,55,425
+112,2026-11-02T16:31:35,venta,Tabla personalizada para 12,13,Queso de cabra,queso,5,78,50,390
+112,2026-11-02T16:31:35,venta,Tabla personalizada para 12,21,Fruta de temporada,acompanamiento,3,45,25,135
+112,2026-11-02T16:31:35,venta,Tabla personalizada para 12,19,Chocolates,acompanamiento,3,65,40,195
+112,2026-11-02T16:31:35,venta,Tabla personalizada para 12,0,Servicio de armado,servicio,1,260,130.0,260
+113,2026-11-02T16:44:15,venta,"Compra: Queso manchego, Chocolates, Fruta de temporada",10,Queso manchego,queso,3,80,52,240
+113,2026-11-02T16:44:15,venta,"Compra: Queso manchego, Chocolates, Fruta de temporada",19,Chocolates,acompanamiento,2,65,40,130
+113,2026-11-02T16:44:15,venta,"Compra: Queso manchego, Chocolates, Fruta de temporada",21,Fruta de temporada,acompanamiento,2,45,25,90
+114,2026-11-02T18:21:22,venta,Tabla personalizada para 6,3,Roast beef,carne,3,65,42,195
+114,2026-11-02T18:21:22,venta,Tabla personalizada para 6,7,Peperoni,carne,3,45,28,135
+114,2026-11-02T18:21:22,venta,Tabla personalizada para 6,2,Selva negra,carne,3,70,45,210
+114,2026-11-02T18:21:22,venta,Tabla personalizada para 6,8,Queso azul,queso,3,85,55,255
+114,2026-11-02T18:21:22,venta,Tabla personalizada para 6,13,Queso de cabra,queso,2,78,50,156
+114,2026-11-02T18:21:22,venta,Tabla personalizada para 6,9,Queso brie,queso,2,75,48,150
+114,2026-11-02T18:21:22,venta,Tabla personalizada para 6,21,Fruta de temporada,acompanamiento,1,45,25,45
+114,2026-11-02T18:21:22,venta,Tabla personalizada para 6,19,Chocolates,acompanamiento,1,65,40,65
+114,2026-11-02T18:21:22,venta,Tabla personalizada para 6,0,Servicio de armado,servicio,1,160,80.0,160
+115,2026-11-02T20:05:00,merma,Merma: pan del día anterior,22,Pan artesanal,acompanamiento,6,40,22,132
+116,2026-11-03T10:03:35,venta,Compra: Roast beef,3,Roast beef,carne,2,65,42,130
+117,2026-11-03T11:55:00,venta,Tabla Reunión,1,Jamón serrano,carne,3,120,80,360
+117,2026-11-03T11:55:00,venta,Tabla Reunión,2,Selva negra,carne,3,70,45,210
+117,2026-11-03T11:55:00,venta,Tabla Reunión,5,Chorizo de Pamplona,carne,3,55,35,165
+117,2026-11-03T11:55:00,venta,Tabla Reunión,9,Queso brie,queso,3,75,48,225
+117,2026-11-03T11:55:00,venta,Tabla Reunión,10,Queso manchego,queso,2,80,52,160
+117,2026-11-03T11:55:00,venta,Tabla Reunión,12,Queso parmesano,queso,2,70,45,140
+117,2026-11-03T11:55:00,venta,Tabla Reunión,21,Fruta de temporada,acompanamiento,1,45,25,45
+117,2026-11-03T11:55:00,venta,Tabla Reunión,22,Pan artesanal,acompanamiento,1,40,22,40
+117,2026-11-03T11:55:00,venta,Tabla Reunión,0,Servicio de armado,servicio,1,160,80.0,160
+118,2026-11-03T14:46:37,venta,Maridaje: Gran Celebración,18,Vino espumoso,vino,3,478.4,340,1435.2
+118,2026-11-03T14:46:37,venta,Maridaje: Gran Celebración,19,Chocolates,acompanamiento,3,59.8,40,179.4
+118,2026-11-03T14:46:37,venta,Maridaje: Gran Celebración,21,Fruta de temporada,acompanamiento,4,41.4,25,165.6
+118,2026-11-03T14:46:37,venta,Maridaje: Gran Celebración,20,Miel,acompanamiento,1,128.8,90,128.8
+119,2026-11-03T18:48:44,venta,Compra: Vino blanco,16,Vino blanco,vino,2,380,250,760
+120,2026-11-03T19:18:06,venta,Tabla personalizada para 6,2,Selva negra,carne,3,70,45,210
+120,2026-11-03T19:18:06,venta,Tabla personalizada para 6,3,Roast beef,carne,3,65,42,195
+120,2026-11-03T19:18:06,venta,Tabla personalizada para 6,7,Peperoni,carne,3,45,28,135
+120,2026-11-03T19:18:06,venta,Tabla personalizada para 6,10,Queso manchego,queso,3,80,52,240
+120,2026-11-03T19:18:06,venta,Tabla personalizada para 6,8,Queso azul,queso,2,85,55,170
+120,2026-11-03T19:18:06,venta,Tabla personalizada para 6,12,Queso parmesano,queso,2,70,45,140
+120,2026-11-03T19:18:06,venta,Tabla personalizada para 6,20,Miel,acompanamiento,1,140,90,140
+120,2026-11-03T19:18:06,venta,Tabla personalizada para 6,22,Pan artesanal,acompanamiento,1,40,22,40
+120,2026-11-03T19:18:06,venta,Tabla personalizada para 6,0,Servicio de armado,servicio,1,160,80.0,160
+121,2026-11-03T20:05:00,merma,Merma: caducado,2,Selva negra,carne,2,70,45,90
+122,2026-11-17T22:14:35,venta,Tabla Íntima,1,Jamón serrano,carne,1,120.0,80.0,120.0
+122,2026-11-17T22:14:35,venta,Tabla Íntima,6,Salami,carne,1,50.0,32.0,50.0
+122,2026-11-17T22:14:35,venta,Tabla Íntima,9,Queso brie,queso,1,75.0,48.0,75.0
+122,2026-11-17T22:14:35,venta,Tabla Íntima,10,Queso manchego,queso,1,80.0,52.0,80.0
+122,2026-11-17T22:14:35,venta,Tabla Íntima,21,Fruta de temporada,acompanamiento,1,45.0,25.0,45.0
+122,2026-11-17T22:14:35,venta,Tabla Íntima,19,Chocolates,acompanamiento,1,65.0,40.0,65.0
+122,2026-11-17T22:14:35,venta,Tabla Íntima,0,Servicio de armado,servicio,1,90,45.0,90
+123,2026-11-17T22:16:37,venta,Tabla personalizada para 2,1,Jamón serrano,carne,1,120.0,80.0,120.0
+123,2026-11-17T22:16:37,venta,Tabla personalizada para 2,3,Roast beef,carne,1,65.0,42.0,65.0
+123,2026-11-17T22:16:37,venta,Tabla personalizada para 2,9,Queso brie,queso,1,75.0,48.0,75.0
+123,2026-11-17T22:16:37,venta,Tabla personalizada para 2,11,Queso de oveja trufado,queso,1,110.0,70.0,110.0
+123,2026-11-17T22:16:37,venta,Tabla personalizada para 2,20,Miel,acompanamiento,1,140.0,90.0,140.0
+123,2026-11-17T22:16:37,venta,Tabla personalizada para 2,22,Pan artesanal,acompanamiento,1,40.0,22.0,40.0
+123,2026-11-17T22:16:37,venta,Tabla personalizada para 2,0,Servicio de armado,servicio,1,90,45.0,90
+124,2026-11-17T22:17:36,venta,Compra: Vino espumoso,18,Vino espumoso,vino,1,520.0,340.0,520.0
+125,2026-11-17T22:19:33,venta,Compra: Baileys,24,Baileys,vino,1,300.0,490.0,300.0
+126,2026-11-17T22:19:35,venta,Compra: Baileys,24,Baileys,vino,1,300.0,490.0,300.0
+127,2026-11-17T22:19:56,venta,Compra: Baileys,24,Baileys,vino,1,300.0,490.0,300.0
+128,2026-11-17T22:19:58,venta,Compra: Baileys,24,Baileys,vino,1,300.0,490.0,300.0
